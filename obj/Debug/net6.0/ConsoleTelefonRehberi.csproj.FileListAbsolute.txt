@@ -1,0 +1,15 @@
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\bin\Debug\net6.0\ConsoleTelefonRehberi.exe
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\bin\Debug\net6.0\ConsoleTelefonRehberi.deps.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\bin\Debug\net6.0\ConsoleTelefonRehberi.runtimeconfig.json
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\bin\Debug\net6.0\ConsoleTelefonRehberi.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\bin\Debug\net6.0\ConsoleTelefonRehberi.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.csproj.AssemblyReference.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.AssemblyInfoInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.AssemblyInfo.cs
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\refint\ConsoleTelefonRehberi.dll
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.pdb
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ConsoleTelefonRehberi.genruntimeconfig.cache
+C:\Users\TR-DM-0099\Desktop\Mahmut\Kişisel\Patika\C# 101\ConsoleTelefonRehberi\obj\Debug\net6.0\ref\ConsoleTelefonRehberi.dll

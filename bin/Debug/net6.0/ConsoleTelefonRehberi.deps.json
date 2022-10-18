@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleTelefonRehberi/1.0.0": {
+        "runtime": {
+          "ConsoleTelefonRehberi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTelefonRehberi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
